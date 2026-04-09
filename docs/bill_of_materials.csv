@@ -1,0 +1,23 @@
+Component,Specification,Quantity,Approx Cost (INR),Where to Buy,Notes
+Solar Panel,6V 3W Polycrystalline,1,150-200,Amazon / Local electronics,Place in direct sunlight
+18650 Li-ion Battery,3.7V 3000mAh with protection circuit,1,120-180,Amazon / Robu.in,Use protected cells only
+TP4056 Charger Module,Micro-USB with overcharge protection,1,20-35,Amazon / Robu.in,Check BAT+/BAT- polarity
+MT3608 Boost Converter,Input 2-24V Output 5V 2A,1,30-50,Amazon / Robu.in,Adjust trim pot to exactly 5V
+Arduino Nano,ATmega328P 5V 16MHz,1,180-250,Robu.in / Amazon,Old bootloader variant
+IR Proximity Sensor Module,FC-51 or TCRT5000,1,30-50,Amazon / Robu.in,Active LOW output
+5V Mini Submersible Pump,DC 3-5V with silicone tube,1,80-120,Amazon / Robu.in,Food-grade tubing preferred
+5V 1-Channel Relay Module,Opto-isolated active HIGH,1,40-60,Amazon / Robu.in,Check trigger logic (HIGH/LOW)
+Resistor,10k ohm 1/4W 5%,1,1,Local electronics,Voltage divider R1
+Resistor,4.7k ohm 1/4W 5%,1,1,Local electronics,Voltage divider R2
+Resistor,330 ohm 1/4W (x2),2,2,Local electronics,LED current limiters
+Green LED,5mm 2V 20mA,1,2,Local electronics,Solar / battery OK indicator
+Red LED,5mm 2V 20mA,1,2,Local electronics,Low battery warning
+Piezo Buzzer,Active 5V,1,10-15,Amazon,Dispense confirmation beep
+Silicone Tube,6mm ID food-grade,30cm,20-30,Local hardware store,From bottle to pump to nozzle
+Sanitizer Bottle,250ml-500ml plastic,1,30-50,Supermarket,Drill hole for pump tube
+Jumper Wires,Male-to-Male and Male-to-Female,1 set,30-50,Amazon,Assorted lengths
+PCB or Breadboard,Mini PCB or 400-point breadboard,1,30-60,Amazon / Robu.in,PCB preferred for final build
+18650 Battery Holder,Single cell with leads,1,15-25,Robu.in / Amazon,Ensure polarity marking
+Enclosure Box,Plastic project box or DIY wood,1,50-150,Local hardware / Amazon,Weatherproof preferred
+TOTAL MINIMUM,,,,850 INR,
+TOTAL MAXIMUM,,,,1300 INR,
